@@ -1,0 +1,10 @@
+yfinance
+pytickersymbols
+pandas
+curl_cffi
+tqdm
+numpy
+pdfplumber
+tabula-py
+openpyxl
+requests
